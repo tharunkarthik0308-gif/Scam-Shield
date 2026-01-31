@@ -29,3 +29,7 @@ Verify suspicious messages and scam texts
 Educate users on cyber safety and scam awareness
 
 ScamShield combines technology, awareness, and usability to create a safer digital experience for everyone.
+
+All programs in these project is not done here, but available on Lovable app
+Kindly experience it in 16k!
+https://aiscamdetecter.lovable.app/
